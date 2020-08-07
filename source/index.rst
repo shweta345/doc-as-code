@@ -3,13 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to doclikecode's documentation!
-=======================================
+WhatsApp Documentation
+======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
    :caption: Contents:
    
+   about.rst
+   prerequisites.rst
+   about.rst
+   prerequisites.rst
    about.rst
    prerequisites.rst
 
