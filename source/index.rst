@@ -9,6 +9,9 @@ Welcome to doclikecode's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   about.rst
+   prerequisites.rst
 
 
 
