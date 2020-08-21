@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'doclikecode'
+project = 'Whatsapp Documentation'
 copyright = '2020, shweta shetye'
-author = 'shweta shetye'
+author = 'Shweta Shetye'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1'

@@ -12,10 +12,6 @@ WhatsApp Documentation
    
    about.rst
    prerequisites.rst
-   about.rst
-   prerequisites.rst
-   about.rst
-   prerequisites.rst
    proj_whatsapp.md
 
 
