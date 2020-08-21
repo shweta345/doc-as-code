@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-WhatsApp Documentation
-======================
+Technical Writings and other Musings
+====================================
 
 .. toctree::
    :maxdepth: 6
@@ -12,8 +12,7 @@ WhatsApp Documentation
    
    about.rst
    prerequisites.rst
-   proj_whatsapp.md
-
+   
 
 Indices and tables
 ==================
