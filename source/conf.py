@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Whatsapp Documentation'
+project = 'Technical Writing and other Musings'
 copyright = '2020, shweta shetye'
 author = 'Shweta Shetye'
 
