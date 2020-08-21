@@ -16,7 +16,7 @@ WhatsApp Documentation
    prerequisites.rst
    about.rst
    prerequisites.rst
-
+   proj_whatsapp.md
 
 
 Indices and tables
