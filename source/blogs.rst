@@ -30,16 +30,10 @@ After integrating the site and getting it to run, I have come to the observation
 
 ..hlist::
 
-* Docs-as-code will be easier for you to adapt if you let go of your DITA mindset just in the
-  initial phase. As DITA is more focussed on modular content, I am yet to explore how modularity 
-  features in docs-as-code setup.
-* Try to familiarize yourself with some programming language. This will generally help you to better
-  understand implementing the markups. Tagging works the same way as in any XML editor, but it is presented
-  in a bare minimum wrapper. 
-* Get into the coding mindset! This will help in integrating and embracing multiple plugins and extensions 
-  that the docs-as-code offers. Don't give up but also learn the art of searching answers on the internet. 
-* Embrace google search with a different perspective. You might get stuck while implementing a plugin and 
-  feel like opting out, but instead search for what you need in multiple ways. 
+* Docs-as-code will be easier for you to adapt if you let go of your DITA mindset just in the initial phase. As DITA is more focussed on modular content, I am yet to explore how modularity features in docs-as-code setup.
+* Try to familiarize yourself with some programming language. This will generally help you to better understand implementing the markups. Tagging works the same way as in any XML editor, but it is presented in a bare minimum wrapper. 
+* Get into the coding mindset! This will help in integrating and embracing multiple plugins and extensions that the docs-as-code offers. Don't give up but also learn the art of searching answers on the internet. 
+* Embrace google search with a different perspective. You might get stuck while implementing a plugin and feel like opting out, but instead search for what you need in multiple ways. 
 
 I am still learning the ropes of docs-as-code and as I learn, so shall I share my learnings. Just start and things 
 will fall into place. 
