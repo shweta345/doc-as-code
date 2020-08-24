@@ -33,6 +33,7 @@ Professional Experience
 
 .. image:: images/prot.png
   :width: 200
+  
 SEPTEMBER 2015 – PRESENT
 
 SENIOR TECHNICAL WRITER, PROTEGRITY USA, MUMBAI
@@ -54,48 +55,46 @@ Project Overview:
 Working on multiple projects ranging from creating technical documentation for web applications, mobile applications to proof reading reports. As part of Curiousmumma, managing the content selection and editing every blog that goes on the site.
 
 Consultant Technical Writer
-•	Worked as a contractor on Elance.com with a rating of 4.6/5.0. Link can be provided on
-    request.
-•   Created documentation for healthcare applications, Joomla applications, and WooCommerce
-    applications. Links can be provided on request.
+
+•	Worked as a contractor on Elance.com with a rating of 4.6/5.0. Link can be provided on request.
+•   Created documentation for healthcare applications, Joomla applications, and WooCommerce applications. Links can be provided on request.
 •	Edited reports for MBA students
 •	Successfully was part of the Udemy writer group. Technical articles written for Udemy can be found at https://www.udemy.com/blog/author/shweta_shetye.
 
 Editor-Curiousmumma.com
+
 •	Conceptualized and started parenting blog in April 2014.
 •	Written more than 100 articles spread over the course of a year.
 •	Established FB page likes of 745 and Twitter following of 212 with social media engagement.
 •	Daily viewership of 200 views.
-•	Have been involved in content strategy, marketing strategy and publicity related decisions for
-    the blog.
+•	Have been involved in content strategy, marketing strategy and publicity related decisions for the blog.
 •	Expert at using WordPress as a CMS.
 
 .. image:: images/ibm.png
   :width: 200
+  
 JUNE 2008 – MARCH 2014
 
 SENIOR INFORMATION DEVELOPER, IBM INDIA PVT LTD, MUMBAI
+
 Managing information development requirements for the BPM India team, which includes creating documentation, technotes, and release notes.
 
 Information Development Activities –
-- Creating technical documents such as development guides, how-to guides, installation guides, and  
-  release notes using Arbortext Editor.
-- Working on internal DCF tool to create Frequently Asked Questions (FAQ) document for WebSphere 
-  Industry Content Packs.
-- Reviewing documents using integrated Acrocheck tool and in MS Word for technical accuracy and 
-  grammatical errors.
+
+- Creating technical documents such as development guides, how-to guides, installation guides, and release notes using Arbortext Editor.
+- Working on internal DCF tool to create Frequently Asked Questions (FAQ) document for WebSphere Industry Content Packs.
+- Reviewing documents using integrated Acrocheck tool and in MS Word for technical accuracy and grammatical errors.
 - Using the internal iDOC online reviewing tool for maintaining review comments.
 
 Localization Activities –
-- Responsible for using IBM IDWB internal tool for packaging translation Information units and shipping 
-  them for translation.
-- Responsible for communication with translation vendors and communicating via TCT internal IBM 
-  communication tool with translators.
-- Co-ordinate with translation leads for different countries for timely return of translated content and 
-  organization of these IUs.
+
+- Responsible for using IBM IDWB internal tool for packaging translation Information units and shipping them for translation.
+- Responsible for communication with translation vendors and communicating via TCT internal IBM communication tool with translators.
+- Co-ordinate with translation leads for different countries for timely return of translated content and organization of these IUs.
 - Estimate the word counts and difference in word counts for the IUs sent for translation.
 
 Project Management Activities –
+
 - Project scoping and requirement based work estimations.
 - Project timelines definitions and tracking in internal tracking tool Rational Team Concert.
 - Tracking of project related issues via internal issue tracking tool, JIRA.
@@ -103,24 +102,21 @@ Project Management Activities –
 - Gathering requirements based on work items and providing required time lines.
 
 Innovation and others –
+
 - Was part of internal Mind mapping tool project named Mindsearch
-- Part of the internal IBM social media group BlueIQ and responsible for spreading awareness about the 
-  social collaboration tools in IBM under Lotus. Under this, mentored Dr. Gopal PonnaniKrishnan in 
-  collaboration with another colleague. 
+- Part of the internal IBM social media group BlueIQ and responsible for spreading awareness about the social collaboration tools in IBM under Lotus. Under this, mentored Dr. Gopal PonnaniKrishnan in collaboration with another colleague. 
 
 .. image:: images/lb.png
   :width: 200
+  
 NOV 2006 – JUNE 2008
 
 SENIOR SPECIALIST, LIONBRIDGE
 
 Responsible for creating user guides for HP iPAQ handsets using Arbortext Editor. Also, worked on creation of multiple guides for different HP iPAQ accessories using Adobe FrameMaker (unstructured).
 
-• Worked on Adobe Acrobat Pitstop plug-in to edit PDF documents and modify them by adding crop 
-  marks, graphics, color variations, etc.
-• Work in co-ordination with Localization team (generation of part number and maintaining a link 
-  between writing and localization) Interaction with clients on a day to day basis and worked as an  
-  acting Team lead.
+• Worked on Adobe Acrobat Pitstop plug-in to edit PDF documents and modify them by adding crop marks, graphics, color variations, etc.
+• Work in co-ordination with Localization team (generation of part number and maintaining a link between writing and localization) Interaction with clients on a day to day basis and worked as an acting Team lead.
   
 *********
 Education
