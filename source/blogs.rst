@@ -1,6 +1,6 @@
-*****
+#####
 Blogs
-*****
+#####
 
 Compilation of technical writing and other thoughts about multiple things.
 
