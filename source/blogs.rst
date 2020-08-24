@@ -1,6 +1,6 @@
 #####
 Blogs
-#####
+#####	
 
 Compilation of technical writing and other thoughts about multiple things.
 
@@ -28,8 +28,6 @@ Git as my source repository.
 
 After integrating the site and getting it to run, I have come to the observations that -
 
-..hlist::
-
 * Docs-as-code will be easier for you to adapt if you let go of your DITA mindset just in the initial phase. As DITA is more focussed on modular content, I am yet to explore how modularity features in docs-as-code setup.
 * Try to familiarize yourself with some programming language. This will generally help you to better understand implementing the markups. Tagging works the same way as in any XML editor, but it is presented in a bare minimum wrapper. 
 * Get into the coding mindset! This will help in integrating and embracing multiple plugins and extensions that the docs-as-code offers. Don't give up but also learn the art of searching answers on the internet. 
@@ -40,7 +38,6 @@ will fall into place.
 
 Couple of references - 
 
-..hlist::
 * Sphinx documentation - https://www.sphinx-doc.org/
 * ReadtheDocs - https://readthedocs.org/
 * GIT and readthedocs webhook configuration - https://docs.readthedocs.io/en/stable/webhooks.html
