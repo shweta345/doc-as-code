@@ -8,7 +8,7 @@ Technical Writings and other Musings
 
 .. toctree::
    :maxdepth: 6
-   :caption: 
+   :caption: List: 
    
    about.rst
    prerequisites.rst
