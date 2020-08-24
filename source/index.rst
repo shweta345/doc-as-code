@@ -8,10 +8,12 @@ Technical Writings and other Musings
 
 .. toctree::
    :maxdepth: 6
-   :caption: Contents:
+   :caption: 
    
    about.rst
    prerequisites.rst
+   blogs.rst
+   
    
 
 Indices and tables
