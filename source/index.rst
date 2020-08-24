@@ -12,9 +12,7 @@ Technical Writings and other Musings
    
    about.rst
    prerequisites.rst
-   blogs.rst
-   
-   
+    
 
 Indices and tables
 ==================
