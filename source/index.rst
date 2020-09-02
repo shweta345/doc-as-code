@@ -13,6 +13,7 @@ Technical Writings and other Musings
    about.rst
    prerequisites.rst
    blogs.rst
+   portfolio.rst
 
 Indices and tables
 ==================
