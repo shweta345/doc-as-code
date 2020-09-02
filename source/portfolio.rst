@@ -1,9 +1,6 @@
-***************
-About this blog
-***************
+*********
+Portfolio
+*********
 
-If I use Sphinx with Readthedocs, does it qualify to be called as doc as code?
-This blog is about musings of a technical writer who is just starting out to 
-understand what the noise is about creating content that can be treated as code.
-
-Apart from talking about technical writing, this blog is about general musings.
+As most of my experience involved working with Enterprise documentation, the samples are mostly under an NDA.
+If you would like to access some samples, feel free to send me an email requesting access at shweta.shetye@gmail.com
