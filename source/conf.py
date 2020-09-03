@@ -56,7 +56,7 @@ master_doc = 'index'
 
 html_theme = "sphinx_rtd_theme"
 html_theme_path = ["_themes", ]
-html_logo = 'static/logo.png'
+html_logo = '_static/logo.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
