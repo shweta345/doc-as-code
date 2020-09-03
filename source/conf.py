@@ -46,11 +46,20 @@ master_doc = 'index'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+#html_theme = "sphinx_rtd_theme"
+#html_theme_path = ["_themes", ]
+
+#html_static_path = ['_static']
+#html_css_files = [
+#   'css/custom.css',
+#]
+
 html_theme = "sphinx_rtd_theme"
 html_theme_path = ["_themes", ]
+html_logo = '../images/logo.png'
 html_theme_options = {
-    "rightsidebar": "true",
-    "relbarbgcolor": "pink"
+    'logo_only': True,
+    'display_version': False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
