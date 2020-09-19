@@ -1,1 +1,1 @@
-# This is sample implementation of a documentation site using Sphinx and Readthedocs.
+This is sample implementation of a documentation site using Sphinx and Readthedocs.
